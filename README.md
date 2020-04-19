@@ -4,7 +4,7 @@ First attempt at creating a small Continous UI component to learn mdgriffith/elm
 
 *DEMO*
 
-![Demo](https://github.com/lukewilliamboswell/elm-animator-email-field/demo.gif)
+![Demo](https://github.com/lukewilliamboswell/elm-animator-email-field/blob/master/demo.gif)
 
 The link below contains the compontent I was trying to copy.
 
