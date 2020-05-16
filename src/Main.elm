@@ -1,17 +1,12 @@
 module Main exposing (..)
 
-import Animator
-import Animator.Inline
 import Browser
 import Collapsable
 import Color
 import Dict exposing (Dict)
 import Element exposing (..)
 import Element.Background as Background
-import Element.Border as Border
 import Element.Font as Font
-import Element.Input as Input
-import Time
 
 
 
